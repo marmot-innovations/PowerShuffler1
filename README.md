@@ -8,4 +8,4 @@ Included in this project are:
 2. Firmware for client MCU
 3. PCB design for PCBA
 
-Read the individual README for further details.
+Read the individual README for further details. Pictures will be added later to provide instructions for programming and installation, as well as board modifications where needed. Test data will be provided eventually.
