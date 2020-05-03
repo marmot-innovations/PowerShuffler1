@@ -1,4 +1,4 @@
-PowerShuffler 1.0 PCB design schematic, layout, Gerbers, and BOM  
+## PowerShuffler 1.0 PCB design schematic, layout, Gerbers, and BOM  
 KiCAD 5.0.0 for PCB design  
 Microsoft Excel web for BOM  
 No 3D model  
