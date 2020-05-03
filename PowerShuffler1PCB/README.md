@@ -1,13 +1,13 @@
-PowerShuffler 1.0 PCB design schematic, layout, Gerbers, and BOM
-KiCAD 5.0.0 for PCB design
-Microsoft Excel web for BOM
-No 3D model
-No XY pick and place Centroid
-No ODB++
-No footprint library
+PowerShuffler 1.0 PCB design schematic, layout, Gerbers, and BOM  
+KiCAD 5.0.0 for PCB design  
+Microsoft Excel web for BOM  
+No 3D model  
+No XY pick and place Centroid  
+No ODB++  
+No footprint library  
 No schematic library
 
-Design bugs and comments:
+Design bugs and comments:  
 1. S2 pins 3 and 4 are swapped. Use wire wrap to un-swap them.
 2. F2 will drop about 0.1V under full 500mA load when charging. No way to measure OCV in this version. Manually take measurements and compensate by adjusting master MCU.
 3. R12 cannot be switched off to stop charging. Everytime the client MCU is turned on to take a measurement it will move energy.
